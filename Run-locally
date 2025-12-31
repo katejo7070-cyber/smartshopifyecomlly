@@ -1,0 +1,15 @@
+Backend:
+
+npm start
+
+
+Frontend:
+
+npm run dev
+
+
+Open:
+
+http://localhost:3000
+
+🌐 Live Demo
