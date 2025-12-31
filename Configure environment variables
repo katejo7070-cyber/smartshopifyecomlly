@@ -1,0 +1,3 @@
+Create a file named .env in both frontend/ and backend/.
+
+Use .env.example as a reference.
